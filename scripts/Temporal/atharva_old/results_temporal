@@ -1,0 +1,12 @@
+(10013, 2)
+              precision    recall  f1-score   support
+
+      Action       0.82      0.91      0.87      3753
+   No action       0.94      0.88      0.91      6260
+
+    accuracy                           0.89     10013
+   macro avg       0.88      0.90      0.89     10013
+weighted avg       0.90      0.89      0.89     10013
+
+[[3425  328]
+ [ 734 5526]]
